@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.usjreteeapbatch12.usjrmoodle"
-        versionCode = "386"
+        versionCode = "100"
         version   = "0.01">
     <name>Moodler</name>
 
